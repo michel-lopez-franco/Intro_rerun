@@ -1,0 +1,9 @@
+[project]
+name = "ej2"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "rerun-sdk>=0.27.2",
+]
